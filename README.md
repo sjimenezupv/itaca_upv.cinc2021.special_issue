@@ -5,9 +5,16 @@
 The ITACA-UPV team code entry for the PhysioNet/CinC Challenge 2021 (Special Issue version).
 We implemented a One-vs-Rest approach using Supervised and Unsupervised Machine Learning techniques.
 
+This code was the base for the paper published in *Physiological Measurement (IOP Science)* entitled ["From 12 to 1 ECG lead: multiple cardiac condition detection mixing a hybrid machine learning approach with a one-versus-rest classification strategy"](https://iopscience.iop.org/article/10.1088/1361-6579/ac72f5) with DOI identifier [10.1088/1361-6579/ac72f5](https://doi.org/10.1088/1361-6579/ac72f5). To cite this work please use *"Santiago Jiménez-Serrano et al 2022 Physiol. Meas. 43 064003"*.
+
+The same copy of this code and paper can be found in the next GitHub accounts: [sanjiser](https://github.com/sanjiser/itaca_upv.cinc2021.special_issue) and [sjimenezupv](https://github.com/sjimenezupv/itaca_upv.cinc2021.special_issue).
+
+
 The Matlab code contains two main sections: 
 1. train: an example code to read the data and train a multiclass linear regression model.
 2. test: an example code to classify and make prediction based on your training model. 
+
+
 
 ## Authors note
 The authors agree to submit our paper to the focus collection in Physiological Measurement
